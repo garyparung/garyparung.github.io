@@ -1,0 +1,202 @@
+id,name,firstmovie,year,total,movies ,img_path,series
+20,Iron Man,Iron Man ,2008,10,"Iron Man,  	2008
+The Incredible Hulk, 	2008
+Iron Man 2, 	2010
+Avengers, 	2012
+Iron Man 3, 	2013
+Avengers: Age of Ultron, 	2015
+Captain America: Civil War, 	2016
+Spider-Man: Homecoming, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/iron_man.jpg,0
+29,Nick Fury,Iron Man ,2008,10,"Iron Man , 	2008
+Iron Man 2, 	2010
+Captain America: The First Avenger, 	2011
+Avengers, 	2012
+Captain America: The Winter Soldier, 	2014
+Avengers: Age of Ultron, 	2015
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019
+Captain Marvel, 	2019
+Spider-Man: Far from Home, 	2019",img/nick_fury.jpg,1
+19,Hulk,The Incredible Hulk,2008,7,"The Incredible Hulk, 	2008
+Avengers, 	2012
+Iron Man 3, 	2013
+Avengers: Age of Ultron, 	2015
+Thor: Ragnarok, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/hulk.jpg,2
+33,Pepper Potts,Iron Man ,2008,7,"Iron Man, 	2008
+Iron Man 2, 	2010
+Avengers, 	2012
+Iron Man 3, 	2013
+Spider-Man: Homecoming, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/pepper_potts.jpg,3
+48,War Machine,Iron Man ,2008,7,"Iron Man,  	2008
+Iron Man 2, 	2010
+Iron Man 3, 	2013
+Avengers: Age of Ultron, 	2015
+Captain America: Civil War, 	2016
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/war_machine.jpg,4
+1,Agent Coulson,Iron Man ,2008,5,"Iron Man , 2008
+Iron Man 2, 2010
+Thor, 2011
+Avengers, 2012
+Captain Marvel, 2019",img/agent_coulson.jpg,5
+3,Betty Ross,The Incredible Hulk,2008,1,"The Incredible Hulk, 2008",img/betty_ross.jpg,6
+11,Emil Blonsky,The Incredible Hulk,2008,1,"The Incredible Hulk, 	2008",img/emil_blonsky.jpg,7
+21,Iron Monger,Iron Man ,2008,1,"Iron Man,  	2008",img/iron_monger.jpg,8
+5,Black Widow,Iron Man 2,2010,7,"Iron Man 2, 	2010
+Avengers, 	2012
+Captain America: The Winter Soldier	, 2014
+Avengers: Age of Ultron, 	2015
+Captain America: Civil War, 	2016
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/black_widow.jpg,0
+22,Ivan Vanko,Iron Man 2,2010,1,"Iron Man 2, 	2010",img/ivan_vanko.jpg,1
+6,Captain America,Captain America: The First Avenger,2011,9,"Captain America: The First Avenger, 	2011
+Avengers, 	2012
+Thor: The Dark World, 	2013
+Captain America: The Winter Soldier	, 2014
+Avengers: Age of Ultron, 	2015
+Captain America: Civil War, 	2016
+Spider-Man: Homecoming, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/captain_america.jpg,0
+44,Thor Odinson,Thor,2011,8,"Thor, 	2011
+Avengers, 	2012
+Thor: The Dark World, 	2013
+Avengers: Age of Ultron, 	2015
+Doctor Strange, 	2016
+Thor: Ragnarok, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/thor.jpg,1
+16,Hawkeye,Thor,2011,5,"Thor, 	2011
+Avengers, 	2012
+Avengers: Age of Ultron, 	2015
+Captain America: Civil War, 	2016
+Avengers: Endgame, 	2019",img/hawkeye.jpg,2
+17,Heimdall,Thor,2011,5,"Thor, 	2011
+Thor: The Dark World, 	2013
+Avengers: Age of Ultron, 	2015
+Thor: Ragnarok, 	2017
+Avengers: Infinity War, 	2018",img/heimdall.jpg,3
+24,Loki,Thor,2011,5,"Thor, 	2011
+Avengers, 	2012
+Thor: The Dark World, 	2013
+Thor: Ragnarok, 	2017
+Avengers: Infinity War, 	2018",img/loki.jpg,4
+50,Winter Soldier,Captain America: The First Avenger,2011,5,"Captain America: The First Avenger, 	2011
+Captain America: The Winter Soldier, 	2014
+Captain America: Civil War, 	2016
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/winter_soldier.jpg,5
+23,Jane Foster,Thor,2011,3,"Thor, 	2011
+Thor: The Dark World, 	2013
+Avengers: Endgame, 	2019",img/jane_foster.jpg,6
+30,Odin,Thor,2011,3,"Thor, 	2011
+Thor: The Dark World, 	2013
+Thor: Ragnarok, 	2017",img/odin.jpg,7
+32,Peggy Carter,Captain America: The First Avenger,2011,3,"Captain America: The First Avenger, 	2011
+Captain America: The Winter Soldier	, 2014
+Avengers: Endgame, 	2019",img/peggy_carter.jpg,8
+35,Red Skull,Captain America: The First Avenger,2011,3,"Captain America: The First Avenger, 	2011
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/red_skull.jpg,9
+42,Thanos,Avengers,2012,5,"Avengers, 	2012
+Guardians of the Galaxy, 	2014
+Avengers: Age of Ultron, 	2015
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/thanos.jpg,0
+13,Falcon,Captain America: The Winter Soldier,2014,6,"Captain America: The Winter Soldier	, 2014
+Ant-Man, 	2015
+Avengers: Age of Ultron, 	2015
+Captain America: Civil War, 	2016
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/falcon.jpg,0
+37,Scarlet Witch,Captain America: The Winter Soldier,2014,5,"Captain America: The Winter Soldier, 	2014
+Avengers: Age of Ultron, 	2015
+Captain America: Civil War, 	2016
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/scarlet_witch.jpg,1
+10,Drax,Guardians of the Galaxy,2014,4,"Guardians of the Galaxy, 	2014
+Guardians of the Galaxy: Vol. 2, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/drax.jpg,2
+14,Gamora,Guardians of the Galaxy,2014,4,"Guardians of the Galaxy, 	2014
+Guardians of the Galaxy: Vol. 2, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/gamora.jpg,3
+15,Groot,Guardians of the Galaxy,2014,4,"Guardians of the Galaxy, 	2014
+Guardians of the Galaxy: Vol. 2, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/groot.jpg,4
+28,Nebula,Guardians of the Galaxy,2014,4,"Guardians of the Galaxy, 	2014
+Guardians of the Galaxy: Vol. 2, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/nebula.jpg,5
+36,Rocket Raccoon,Guardians of the Galaxy: Vol. 2,2014,4,"Guardians of the Galaxy: Vol. 2, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019
+Guardians of the Galaxy, 	2019",img/rocket.jpg,7
+41,Star-Lord,Guardians of the Galaxy,2014,4,"Guardians of the Galaxy, 	2014
+Guardians of the Galaxy: Vol. 2, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/star_lord.jpg,6
+34,Quicksilver,Captain America: The Winter Soldier,2014,2,"Captain America: The Winter Soldier, 	2014
+Avengers: Age of Ultron, 	2015",img/quicksilver.jpg,8
+38,Sharon Carter,Captain America: The Winter Soldier,2014,2,"Captain America: The Winter Soldier	, 2014
+Captain America: Civil War, 	2016",img/sharon_carter.jpg,9
+2,Ant-Man,Ant-Man,2015,4,"Ant-Man, 	2015
+Captain America: Civil War,	2016
+Ant-Man and the Wasp, 	2018
+Avengers: Endgame, 	2019",img/ant_man.jpg,0
+46,Vision,Avengers: Age of Ultron,2015,3,"Avengers: Age of Ultron, 	2015
+Captain America: Civil War, 	2016
+Avengers: Infinity War, 	2018",img/vision.jpg,1
+9,Hank Pym,Ant-Man,2015,2,"Ant-Man, 	2015
+Ant-Man and the Wasp, 	2018",img/hank_pym.jpg,2
+49,Wasp,Ant-Man,2015,2,"Ant-Man, 	2015
+Ant-Man and the Wasp, 	2018",img/wasp.jpg,3
+40,Spider-Man,Captain America: Civil War,2016,5,"Captain America: Civil War, 	2016
+Spider-Man: Homecoming, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019
+Spider-Man: Far from Home, 	2019",img/spider_man.jpg,0
+4,Black Panther,Captain America: Civil War,2016,4,"Captain America: Civil War, 	2016
+Avengers: Infinity War, 	2018
+Black Panther, 	2018
+Avengers: Endgame, 	2019",img/black_panther.jpg,1
+8,Doctor Strange,Doctor Strange,2016,4,"Doctor Strange, 	2016
+Thor: Ragnarok, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/doctor_strange.jpg,2
+51,Wong,Doctor Strange,2016,3,"Doctor Strange, 	2016
+Avengers: Infinity War, 	2018
+Avengers: Endgame,	2019",img/wong.jpg,3
+43,The Ancient One,Doctor Strange,2016,2,"Doctor Strange, 	2016
+Avengers: Endgame, 	2019",img/ancient_one.jpg,4
+26,Mantis,Guardians of the Galaxy: Vol. 2,2017,3,"Guardians of the Galaxy: Vol. 2, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/mantis.jpg,0
+45,Valkyrie,Thor: Ragnarok,2017,3,"Thor: Ragnarok, 	2017
+Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019",img/valkyrie.jpg,1
+18,Hela,Thor: Ragnarok,2017,1,"Thor: Ragnarok, 	2017",img/hela.jpg,2
+47,Vulture,Spider-Man: Homecoming,2017,1,"Spider-Man: Homecoming, 	2017",img/vulture.jpg,3
+7,Captain Marvel,Avengers: Infinity War,2018,3,"Avengers: Infinity War, 	2018
+Avengers: Endgame, 	2019
+Captain Marvel, 	2019",img/captain_marvel.jpg,0
+25,MBaku,Avengers: Infinity War,2018,3,"Avengers: Infinity War, 	2018
+Black Panther, 	2018
+Avengers: Endgame, 	2019",img/mbaku.jpg,1
+31,Okoye,Avengers: Infinity War,2018,3,"Avengers: Infinity War, 	2018
+Black Panther, 	2018
+Avengers: Endgame, 	2019",img/okoye.jpg,2
+39,Shuri,Avengers: Infinity War,2018,3,"Avengers: Infinity War, 	2018
+Black Panther, 	2018
+Avengers: Endgame, 	2019",img/shuri.jpg,3
+12,Erik Killmonger,Black Panther,2018,1,"Black Panther, 	2018",img/erik_killmonger.jpg,4
+27,Nakia,Black Panther,2018,1,"Black Panther, 	2018",img/nakia.jpg,5

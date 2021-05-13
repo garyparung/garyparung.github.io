@@ -1,0 +1,470 @@
+hero1,hero2,conns
+Iron Man,Captain America,446
+Thor Odinson,Captain America,386
+Thor Odinson,Iron Man,344
+Black Panther,Captain America,131
+Black Panther,Iron Man,120
+Black Panther,Thor Odinson,103
+Doctor Strange,Captain America,67
+Doctor Strange,Iron Man,52
+Doctor Strange,Thor Odinson,41
+Doctor Strange,Black Panther,23
+Ant-Man,Captain America,21
+Ant-Man,Iron Man,27
+Ant-Man,Thor Odinson,19
+Ant-Man,Black Panther,8
+Ant-Man,Doctor Strange,2
+Captain Marvel,Captain America,34
+Captain Marvel,Iron Man,36
+Captain Marvel,Thor Odinson,26
+Captain Marvel,Black Panther,15
+Captain Marvel,Doctor Strange,2
+Captain Marvel,Ant-Man,1
+Spider-Man,Captain America,145
+Spider-Man,Iron Man,94
+Spider-Man,Thor Odinson,95
+Spider-Man,Black Panther,24
+Spider-Man,Doctor Strange,71
+Spider-Man,Ant-Man,5
+Spider-Man,Captain Marvel,11
+Hulk,Captain America,7
+Hulk,Iron Man,14
+Hulk,Thor Odinson,6
+Hulk,Black Panther,2
+Hulk,Doctor Strange,3
+Hulk,Spider-Man,4
+Loki,Captain America,32
+Loki,Iron Man,28
+Loki,Thor Odinson,182
+Loki,Black Panther,10
+Loki,Doctor Strange,13
+Loki,Ant-Man,1
+Loki,Spider-Man,11
+Black Widow,Captain America,143
+Black Widow,Iron Man,94
+Black Widow,Thor Odinson,61
+Black Widow,Black Panther,44
+Black Widow,Doctor Strange,19
+Black Widow,Ant-Man,6
+Black Widow,Captain Marvel,10
+Black Widow,Spider-Man,40
+Black Widow,Loki,5
+War Machine,Iron Man,5
+Winter Soldier,Captain America,301
+Winter Soldier,Iron Man,4
+Winter Soldier,Thor Odinson,4
+Winter Soldier,Captain Marvel,1
+Winter Soldier,Loki,2
+Hawkeye,Captain America,322
+Hawkeye,Iron Man,294
+Hawkeye,Thor Odinson,210
+Hawkeye,Black Panther,95
+Hawkeye,Doctor Strange,35
+Hawkeye,Ant-Man,11
+Hawkeye,Captain Marvel,22
+Hawkeye,Spider-Man,57
+Hawkeye,Hulk,6
+Hawkeye,Loki,14
+Hawkeye,Black Widow,99
+Hawkeye,Winter Soldier,2
+Scarlet Witch,Captain America,374
+Scarlet Witch,Iron Man,372
+Scarlet Witch,Thor Odinson,254
+Scarlet Witch,Black Panther,108
+Scarlet Witch,Doctor Strange,62
+Scarlet Witch,Ant-Man,7
+Scarlet Witch,Captain Marvel,32
+Scarlet Witch,Spider-Man,67
+Scarlet Witch,Hulk,4
+Scarlet Witch,Loki,23
+Scarlet Witch,Black Widow,95
+Scarlet Witch,Hawkeye,301
+Falcon,Captain America,189
+Falcon,Iron Man,44
+Falcon,Thor Odinson,27
+Falcon,Black Panther,18
+Falcon,Doctor Strange,6
+Falcon,Ant-Man,3
+Falcon,Captain Marvel,3
+Falcon,Spider-Man,22
+Falcon,Hulk,2
+Falcon,Loki,3
+Falcon,Black Widow,26
+Falcon,Hawkeye,33
+Falcon,Scarlet Witch,35
+Drax,Captain America,29
+Drax,Iron Man,18
+Drax,Thor Odinson,8
+Drax,Black Panther,6
+Drax,Doctor Strange,17
+Drax,Ant-Man,2
+Drax,Captain Marvel,20
+Drax,Spider-Man,11
+Drax,Black Widow,9
+Drax,Hawkeye,5
+Drax,Scarlet Witch,21
+Gamora,Captain America,17
+Gamora,Iron Man,5
+Gamora,Thor Odinson,2
+Gamora,Doctor Strange,11
+Gamora,Spider-Man,7
+Gamora,Black Widow,5
+Gamora,Hawkeye,4
+Gamora,Scarlet Witch,14
+Gamora,Drax,30
+Nebula,Captain America,15
+Nebula,Iron Man,8
+Nebula,Thor Odinson,5
+Nebula,Doctor Strange,7
+Nebula,Spider-Man,11
+Nebula,Loki,1
+Nebula,Drax,7
+Mantis,Captain America,23
+Mantis,Iron Man,38
+Mantis,Thor Odinson,36
+Mantis,Black Panther,23
+Mantis,Doctor Strange,8
+Mantis,Captain Marvel,3
+Mantis,Spider-Man,2
+Mantis,Loki,7
+Mantis,Black Widow,1
+Mantis,Hawkeye,20
+Mantis,Scarlet Witch,39
+Mantis,Drax,3
+Wasp,Captain America,384
+Wasp,Iron Man,301
+Wasp,Thor Odinson,238
+Wasp,Black Panther,84
+Wasp,Doctor Strange,38
+Wasp,Ant-Man,19
+Wasp,Captain Marvel,18
+Wasp,Spider-Man,78
+Wasp,Hulk,3
+Wasp,Loki,13
+Wasp,Black Widow,90
+Wasp,Winter Soldier,3
+Wasp,Hawkeye,269
+Wasp,Scarlet Witch,273
+Wasp,Falcon,42
+Wasp,Drax,7
+Wasp,Gamora,3
+Wasp,Nebula,6
+Vision,Captain America,385
+Vision,Iron Man,333
+Vision,Thor Odinson,255
+Vision,Black Panther,132
+Vision,Doctor Strange,58
+Vision,Ant-Man,12
+Vision,Captain Marvel,35
+Vision,Spider-Man,75
+Vision,Hulk,6
+Vision,Loki,21
+Vision,Black Widow,120
+Vision,Hawkeye,253
+Vision,Scarlet Witch,422
+Vision,Falcon,48
+Vision,Drax,22
+Vision,Gamora,15
+Vision,Nebula,9
+Vision,Mantis,41
+Vision,Wasp,254
+Betty Ross,Captain America,14
+Betty Ross,Iron Man,16
+Betty Ross,Thor Odinson,10
+Betty Ross,Black Panther,3
+Betty Ross,Doctor Strange,10
+Betty Ross,Ant-Man,1
+Betty Ross,Captain Marvel,2
+Betty Ross,Spider-Man,6
+Betty Ross,Black Widow,2
+Betty Ross,Hawkeye,10
+Betty Ross,Scarlet Witch,7
+Betty Ross,Falcon,4
+Betty Ross,Rocket Raccoon,1
+Betty Ross,Wasp,10
+Betty Ross,Vision,7
+Hank Pym,Captain America,295
+Hank Pym,Iron Man,291
+Hank Pym,Thor Odinson,189
+Hank Pym,Black Panther,86
+Hank Pym,Doctor Strange,35
+Hank Pym,Ant-Man,14
+Hank Pym,Captain Marvel,20
+Hank Pym,Spider-Man,46
+Hank Pym,Hulk,4
+Hank Pym,Loki,14
+Hank Pym,Black Widow,117
+Hank Pym,War Machine,1
+Hank Pym,Winter Soldier,4
+Hank Pym,Hawkeye,263
+Hank Pym,Scarlet Witch,244
+Hank Pym,Falcon,28
+Hank Pym,Drax,7
+Hank Pym,Gamora,4
+Hank Pym,Nebula,3
+Hank Pym,Mantis,4
+Hank Pym,Wasp,406
+Hank Pym,Vision,239
+Hank Pym,Betty Ross,8
+Emil Blonsky,Iron Man,2
+Emil Blonsky,Thor Odinson,2
+Emil Blonsky,Hawkeye,3
+Emil Blonsky,Scarlet Witch,1
+Emil Blonsky,Falcon,1
+Emil Blonsky,Betty Ross,19
+Emil Blonsky,Hank Pym,1
+Erik Killmonger,Iron Man,4
+Erik Killmonger,Thor Odinson,1
+Erik Killmonger,Black Panther,23
+Erik Killmonger,Hawkeye,1
+Erik Killmonger,Falcon,1
+Erik Killmonger,Wasp,3
+Erik Killmonger,Hank Pym,3
+Ivan Vanko,Captain America,2
+Ivan Vanko,Iron Man,26
+Ivan Vanko,Thor Odinson,1
+Ivan Vanko,Black Panther,3
+Ivan Vanko,Ant-Man,2
+Ivan Vanko,Spider-Man,8
+Ivan Vanko,Black Widow,1
+Ivan Vanko,Hawkeye,6
+Ivan Vanko,Wasp,3
+Ivan Vanko,Hank Pym,2
+Jane Foster,Captain America,9
+Jane Foster,Iron Man,20
+Jane Foster,Thor Odinson,112
+Jane Foster,Doctor Strange,2
+Jane Foster,Spider-Man,3
+Jane Foster,Loki,32
+Jane Foster,Black Widow,1
+Jane Foster,War Machine,2
+Jane Foster,Hawkeye,2
+Jane Foster,Scarlet Witch,7
+Jane Foster,Wasp,11
+Jane Foster,Betty Ross,1
+Jane Foster,Hank Pym,13
+Nick Fury,Captain America,155
+Nick Fury,Iron Man,90
+Nick Fury,Thor Odinson,33
+Nick Fury,Black Panther,18
+Nick Fury,Doctor Strange,18
+Nick Fury,Ant-Man,3
+Nick Fury,Captain Marvel,8
+Nick Fury,Spider-Man,33
+Nick Fury,Loki,8
+Nick Fury,Black Widow,37
+Nick Fury,Winter Soldier,6
+Nick Fury,Hawkeye,36
+Nick Fury,Scarlet Witch,35
+Nick Fury,Falcon,46
+Nick Fury,Drax,3
+Nick Fury,Nebula,3
+Nick Fury,Wasp,27
+Nick Fury,Vision,33
+Nick Fury,Betty Ross,15
+Nick Fury,Hank Pym,25
+Iron Monger,Captain America,3
+Iron Monger,Iron Man,20
+Iron Monger,Wasp,1
+Iron Monger,Hank Pym,1
+Iron Monger,Nick Fury,2
+Odin,Captain America,15
+Odin,Iron Man,17
+Odin,Thor Odinson,266
+Odin,Black Panther,4
+Odin,Doctor Strange,10
+Odin,Captain Marvel,1
+Odin,Spider-Man,7
+Odin,Loki,132
+Odin,Black Widow,4
+Odin,Winter Soldier,2
+Odin,Hawkeye,6
+Odin,Scarlet Witch,13
+Odin,Falcon,1
+Odin,Drax,1
+Odin,Wasp,11
+Odin,Vision,10
+Odin,Betty Ross,1
+Odin,Hank Pym,9
+Odin,Emil Blonsky,1
+Odin,Jane Foster,67
+Odin,Nick Fury,7
+Peggy Carter,Captain America,68
+Peggy Carter,Iron Man,9
+Peggy Carter,Thor Odinson,10
+Peggy Carter,Doctor Strange,2
+Peggy Carter,Ant-Man,1
+Peggy Carter,Spider-Man,4
+Peggy Carter,Loki,3
+Peggy Carter,Black Widow,15
+Peggy Carter,Hawkeye,7
+Peggy Carter,Scarlet Witch,4
+Peggy Carter,Falcon,30
+Peggy Carter,Wasp,5
+Peggy Carter,Vision,14
+Peggy Carter,Hank Pym,8
+Peggy Carter,Nick Fury,8
+Thanos,Captain America,31
+Thanos,Iron Man,20
+Thanos,Thor Odinson,17
+Thanos,Black Panther,8
+Thanos,Doctor Strange,18
+Thanos,Captain Marvel,13
+Thanos,Spider-Man,14
+Thanos,Loki,1
+Thanos,Black Widow,9
+Thanos,Hawkeye,5
+Thanos,Scarlet Witch,24
+Thanos,Drax,41
+Thanos,Gamora,27
+Thanos,Nebula,8
+Thanos,Mantis,5
+Thanos,Wasp,4
+Thanos,Vision,28
+Thanos,Hank Pym,6
+Thanos,Nick Fury,4
+Thanos,Odin,5
+The Ancient One,Captain America,1
+The Ancient One,Thor Odinson,1
+The Ancient One,Doctor Strange,68
+The Ancient One,Spider-Man,2
+The Ancient One,Hawkeye,1
+The Ancient One,Nick Fury,2
+Vulture,Captain America,3
+Vulture,Thor Odinson,3
+Vulture,Spider-Man,49
+Vulture,Wasp,3
+Vulture,Hank Pym,2
+Vulture,Emil Blonsky,1
+Vulture,Odin,1
+Hela,Captain America,8
+Hela,Iron Man,7
+Hela,Thor Odinson,45
+Hela,Doctor Strange,4
+Hela,Loki,21
+Hela,Winter Soldier,1
+Hela,Hawkeye,5
+Hela,Scarlet Witch,8
+Hela,Drax,1
+Hela,Vision,3
+Hela,Jane Foster,11
+Hela,Nick Fury,2
+Hela,Odin,35
+Hela,Vulture,3
+Heimdall,Captain America,5
+Heimdall,Iron Man,7
+Heimdall,Thor Odinson,111
+Heimdall,Doctor Strange,2
+Heimdall,Captain Marvel,1
+Heimdall,Spider-Man,2
+Heimdall,Loki,74
+Heimdall,Black Widow,2
+Heimdall,Wasp,4
+Heimdall,Vision,2
+Heimdall,Hank Pym,4
+Heimdall,Jane Foster,25
+Heimdall,Nick Fury,2
+Heimdall,Odin,106
+Heimdall,Thanos,1
+Heimdall,Hela,19
+Nakia,Captain America,3
+Nakia,Iron Man,3
+Nakia,Black Panther,17
+Nakia,Doctor Strange,1
+Nakia,Spider-Man,1
+Nakia,Black Widow,1
+Nakia,Scarlet Witch,2
+Okoye,Captain America,3
+Okoye,Iron Man,3
+Okoye,Thor Odinson,2
+Okoye,Black Panther,17
+Okoye,Doctor Strange,1
+Okoye,Black Widow,1
+Okoye,Vision,1
+Okoye,Erik Killmonger,6
+Okoye,Nakia,11
+Sharon Carter,Captain America,126
+Sharon Carter,Iron Man,16
+Sharon Carter,Thor Odinson,7
+Sharon Carter,Black Panther,7
+Sharon Carter,Spider-Man,2
+Sharon Carter,Black Widow,3
+Sharon Carter,Hawkeye,11
+Sharon Carter,Scarlet Witch,4
+Sharon Carter,Falcon,56
+Sharon Carter,Wasp,6
+Sharon Carter,Vision,6
+Sharon Carter,Hank Pym,7
+Sharon Carter,Nick Fury,53
+Sharon Carter,Peggy Carter,17
+Red Skull,Captain America,122
+Red Skull,Iron Man,7
+Red Skull,Thor Odinson,7
+Red Skull,Black Panther,1
+Red Skull,Spider-Man,5
+Red Skull,Loki,7
+Red Skull,Black Widow,12
+Red Skull,Winter Soldier,20
+Red Skull,Hawkeye,6
+Red Skull,Scarlet Witch,10
+Red Skull,Falcon,27
+Red Skull,Wasp,10
+Red Skull,Vision,7
+Red Skull,Hank Pym,16
+Red Skull,Nick Fury,25
+Red Skull,Peggy Carter,8
+Red Skull,Sharon Carter,27
+Wong,Captain America,11
+Wong,Iron Man,11
+Wong,Thor Odinson,6
+Wong,Black Panther,2
+Wong,Doctor Strange,208
+Wong,Spider-Man,16
+Wong,Hawkeye,6
+Wong,Scarlet Witch,12
+Wong,Drax,1
+Wong,Nebula,1
+Wong,Mantis,1
+Wong,Wasp,4
+Wong,Vision,6
+Wong,Betty Ross,5
+Wong,Hank Pym,8
+Wong,Emil Blonsky,1
+Wong,Nick Fury,5
+Wong,The Ancient One,18
+MBaku,Captain America,3
+MBaku,Iron Man,4
+MBaku,Thor Odinson,3
+MBaku,Black Panther,6
+MBaku,Hawkeye,9
+MBaku,Scarlet Witch,5
+MBaku,Vision,5
+MBaku,Hank Pym,3
+MBaku,Nakia,2
+Quicksilver,Captain America,165
+Quicksilver,Iron Man,110
+Quicksilver,Thor Odinson,99
+Quicksilver,Black Panther,48
+Quicksilver,Doctor Strange,15
+Quicksilver,Ant-Man,8
+Quicksilver,Captain Marvel,16
+Quicksilver,Spider-Man,23
+Quicksilver,Loki,3
+Quicksilver,Black Widow,94
+Quicksilver,Hawkeye,152
+Quicksilver,Scarlet Witch,210
+Quicksilver,Falcon,26
+Quicksilver,Drax,5
+Quicksilver,Gamora,4
+Quicksilver,Mantis,4
+Quicksilver,Wasp,124
+Quicksilver,Vision,141
+Quicksilver,Betty Ross,8
+Quicksilver,Hank Pym,128
+Quicksilver,Emil Blonsky,1
+Quicksilver,Jane Foster,6
+Quicksilver,Nick Fury,21
+Quicksilver,Peggy Carter,5
+Quicksilver,Thanos,5
+Quicksilver,Sharon Carter,3
+Quicksilver,Red Skull,8

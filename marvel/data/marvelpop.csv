@@ -1,0 +1,199 @@
+﻿Character,Year,importance,Appearance,Series
+Agent Coulson,2008,0,1,0
+Betty Ross,2008,0,1,1
+Emil Blonsky,2008,0,1,2
+Hulk,2008,1,1,3
+Iron Man,2008,1,1,4
+Iron Monger,2008,0,1,5
+Nick Fury,2008,0,1,6
+Pepper Potts,2008,0,1,7
+War Machine,2008,0,1,8
+Agent Coulson,2010,0,0,0
+Black Widow,2010,1,1,5
+Iron Man,2010,1,0,1
+Ivan Vanko,2010,0,1,6
+Nick Fury,2010,0,0,2
+Pepper Potts,2010,0,0,3
+War Machine,2010,0,0,4
+Agent Coulson,2011,0,0,0
+Captain America,2011,1,1,2
+Hawkeye,2011,0,1,3
+Heimdall,2011,0,1,4
+Jane Foster,2011,0,1,5
+Loki,2011,1,1,6
+Nick Fury,2011,0,0,1
+Odin,2011,0,1,7
+Peggy Carter,2011,0,1,8
+Red Skull,2011,0,1,9
+Thor,2011,1,1,10
+Winter Soldier,2011,0,1,11
+Agent Coulson,2012,0,0,0
+Black Widow,2012,1,0,1
+Captain America,2012,1,0,2
+Hawkeye,2012,0,0,3
+Hulk,2012,1,0,4
+Iron Man,2012,1,0,5
+Loki,2012,1,0,6
+Nick Fury,2012,0,0,7
+Pepper Potts,2012,0,0,8
+Thanos,2012,0,1,10
+Thor,2012,1,0,9
+Captain America,2013,1,0,0
+Heimdall,2013,0,0,1
+Hulk,2013,1,0,2
+Iron Man,2013,1,0,3
+Jane Foster,2013,0,0,4
+Loki,2013,1,0,5
+Odin,2013,0,0,6
+Pepper Potts,2013,0,0,7
+Thor,2013,1,0,8
+War Machine,2013,0,0,9
+Black Widow,2014,1,0,0
+Captain America,2014,1,0,1
+Drax,2014,0,1,6
+Falcon,2014,0,1,7
+Gamora,2014,0,1,8
+Groot,2014,0,1,9
+Nebula,2014,0,1,10
+Nick Fury,2014,0,0,2
+Peggy Carter,2014,0,0,3
+Quicksilver,2014,0,1,11
+Rocket Raccoon,2014,0,1,12
+Scarlet Witch,2014,0,1,13
+Sharon Carter,2014,0,1,14
+Star-Lord,2014,0,1,15
+Thanos,2014,0,0,4
+Winter Soldier,2014,0,0,5
+Ant-Man,2015,1,1,14
+Black Widow,2015,1,0,0
+Captain America,2015,1,0,1
+Dr. Hank Pym,2015,0,1,15
+Falcon,2015,0,0,2
+Falcon,2015,0,0,3
+Hawkeye,2015,0,0,4
+Heimdall,2015,0,0,5
+Hulk,2015,1,0,6
+Iron Man,2015,1,0,7
+Nick Fury,2015,0,0,8
+Quicksilver,2015,0,0,9
+Scarlet Witch,2015,0,0,10
+Thanos,2015,0,0,11
+Thor,2015,1,0,12
+Vision,2015,0,1,16
+War Machine,2015,0,0,13
+Wasp,2015,0,1,17
+Ant-Man,2016,1,0,0
+Black Panther,2016,1,1,12
+Black Widow,2016,1,0,1
+Captain America,2016,1,0,2
+Doctor Strange,2016,1,1,13
+Falcon,2016,0,0,3
+Hawkeye,2016,0,0,4
+Iron Man,2016,1,0,5
+Scarlet Witch,2016,0,0,6
+Sharon Carter,2016,0,0,7
+Spider-Man,2016,1,1,14
+The Ancient One,2016,0,1,15
+Thor,2016,1,0,8
+Vision,2016,0,0,9
+War Machine,2016,0,0,10
+Winter Soldier,2016,0,0,11
+Wong,2016,0,1,16
+Captain America,2017,1,0,0
+Doctor Strange,2017,1,0,1
+Drax,2017,0,0,2
+Gamora,2017,0,0,3
+Groot,2017,0,0,4
+Heimdall,2017,0,0,5
+Hela,2017,0,1,16
+Hulk,2017,1,0,6
+Iron Man,2017,1,0,7
+Loki,2017,1,0,8
+Mantis,2017,0,1,17
+Nebula,2017,0,0,9
+Odin,2017,0,0,10
+Pepper Potts,2017,0,0,11
+Rocket Raccoon,2017,0,0,12
+Spider-Man,2017,1,0,13
+Star-Lord,2017,0,0,14
+Thor,2017,1,0,15
+Valkyrie,2017,0,1,18
+Vulture,2017,0,1,19
+Ant-Man,2018,1,0,0
+Black Panther,2018,1,0,1
+Black Panther,2018,1,0,2
+Black Widow,2018,1,0,3
+Captain America,2018,1,0,4
+Captain Marvel,2018,1,0,5
+Doctor Strange,2018,1,0,6
+Dr. Hank Pym,2018,0,0,7
+Drax,2018,0,0,8
+Erik Killmonger,2018,0,1,34
+Falcon,2018,0,0,9
+Gamora,2018,0,0,10
+Groot,2018,0,0,11
+Heimdall,2018,0,0,12
+Hulk,2018,1,0,13
+Iron Man,2018,1,0,14
+Loki,2018,1,0,15
+M'Baku,2018,0,1,35
+Mantis,2018,0,0,16
+Nakia,2018,0,0,17
+Nebula,2018,0,0,18
+Nick Fury,2018,0,0,19
+Okoye,2018,0,1,36
+Pepper Potts,2018,0,0,20
+Red Skull,2018,0,0,21
+Rocket Raccoon,2018,0,0,22
+Scarlet Witch,2018,0,0,23
+Shuri,2018,0,1,37
+Spider-Man,2018,1,0,24
+Star-Lord,2018,0,0,25
+Thanos,2018,0,0,26
+Thor,2018,1,0,27
+Valkyrie,2018,0,0,28
+Vision,2018,0,0,29
+War Machine,2018,0,0,30
+Wasp,2018,0,0,31
+Winter Soldier,2018,0,0,32
+Wong,2018,0,0,33
+Agent Coulson,2019,0,0,0
+Ant-Man,2019,1,0,1
+Black Panther,2019,1,0,2
+Black Widow,2019,1,0,3
+Captain America,2019,1,0,4
+Captain Marvel,2019,1,0,5
+Captain Marvel,2019,1,0,6
+Doctor Strange,2019,1,0,7
+Drax,2019,0,0,8
+Falcon,2019,0,0,9
+Gamora,2019,0,0,10
+Groot,2019,0,0,11
+Hawkeye,2019,0,0,12
+Hulk,2019,1,0,13
+Iron Man,2019,1,0,14
+Jane Foster,2019,0,0,15
+M'Baku,2019,0,0,16
+Mantis,2019,0,0,17
+Nebula,2019,0,0,18
+Nick Fury,2019,0,0,19
+Nick Fury,2019,0,0,20
+Nick Fury,2019,0,0,21
+Okoye,2019,0,0,22
+Peggy Carter,2019,0,0,23
+Pepper Potts,2019,0,0,24
+Red Skull,2019,0,0,25
+Rocket Raccoon,2019,0,0,26
+Scarlet Witch,2019,0,0,27
+Shuri,2019,0,0,28
+Spider-Man,2019,1,0,29
+Spider-Man,2019,1,0,30
+Star-Lord,2019,0,0,31
+Thanos,2019,0,0,32
+The Ancient One,2019,0,0,33
+Thor,2019,1,0,34
+Valkyrie,2019,0,0,35
+War Machine,2019,0,0,36
+Wasp,2019,0,0,37
+Winter Soldier,2019,0,0,38
+Wong,2019,0,0,39

@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Kosugi&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Domine:400,700&display=swap');
+
+body {
+    background-color: rgb(19, 00, 65, 0.7);
+    overflow-x: hidden;
+}
+
+#sections {
+    position: relative;
+    display: inline-block;
+    width: 400px;
+    top: 60px;
+    z-index: 90;
+    margin-right: 50px;
+}
+
+.categoryLegend {
+    font-family: "Domine";
+}
+
+.step {
+    margin-bottom: 100px;
+    height: 900px;
+    font-family: "Domine";
+    font-weight: 400;
+    line-height: 1.4em;
+    text-align: start;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-around; */
+}
+
+h1, h2 {
+    font-weight: 700;
+    text-align: left;
+    line-height: 32px;
+}
+
+h2 {
+    color:#b3b3b3;
+}
+
+h1 {
+    font-size: 35px;
+    color:#e0e0e0;
+}
+
+#graphic {
+    margin: auto;
+    width: 1300px;
+    flex-direction: row;
+    align-items: top;
+    justify-content: space-around;
+}
+
+#vis {
+    display: inline-block;
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+    margin-left: 0;
+    height: 1000px;
+    width: 1000px;
+}
+
+#sigma-container {
+    display: inline-block;
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+    margin-left: 0;
+    height: 500px;
+    width: 500px;
+}
+
+.tick line {
+    stroke: 'red'
+}
+
+#tooltip {
+    position: absolute;
+    display: none;
+    background: rgba(0, 0, 0, .7);
+    border-radius: 3px;
+    box-shadow: -3px 3px 15px #939393;
+    color: white;
+    padding: 6px;
+    font-family: "Merriweather";
+    text-align: right;
+    font-size: 1.1em;
+    max-width: 400px;
+    z-index: 100;
+}
+
+strong {
+    color: rgb(245, 155, 155);
+    text-align: left;
+}
+
+#tooltip.hidden {
+    display: none;
+}
+
+/* svg circle{
+    border-radius: 10px;
+}
+
+svg circle:hover{
+    cursor: pointer;
+    border-radius: 15px;
+} */
+
+.swatch {
+    fill: #939393;
+}
+
+.sizeLegend2 {
+    opacity: 0.7
+}
+
+a {
+    color: rgb(221, 0, 255);
+    text-decoration: none;
+}
