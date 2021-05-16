@@ -341,10 +341,17 @@ function drawBubbles(){
             .style('top', (d3.event.pageY - 25) + 'px')
             .style('display', 'inline-block')
             .attr('opacity', 1)
-            .html(`<strong>Character:</strong> ${d.character} 
-                <br> <strong>Twitter Followers:</strong> ${thousands_separators(d.followers)}`)
+            .html(`<strong>Character:</strong> ${d.character}` + twitter_follower(d.followers))
     }
     
+    function twitter_follower(followers) {
+        if (followers > 0) {
+            return "<br> <strong>Twitter Followers:</strong> " + thousands_separators(followers)
+        } else {
+            return ""
+        }
+    }
+
     function thousands_separators(num) {
         var num_parts = num.toString().split(".");
         num_parts[0] = num_parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
